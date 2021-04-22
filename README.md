@@ -1,7 +1,7 @@
 # Hey! I'm Márcio Marques! 😁
 
 &nbsp;
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=marciomarquesdesouza&hide=issues&count_private=true&show_icons=true&theme=dracula)]
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=marciomarquesdesouza&hide=issues&count_private=true&show_icons=true&theme=dracula)
 &nbsp;
 
 <!--
