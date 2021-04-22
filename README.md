@@ -1,4 +1,8 @@
-## Hey 😁
+# Hey! I'm Márcio Marques! 😁
+
+&nbsp;
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=marciomarquesdesouza&hide=issues&count_private=true&show_icons=true&theme=dracula)]
+&nbsp;
 
 <!--
 **marciomarquesdesouza/marciomarquesdesouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
