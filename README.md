@@ -1,5 +1,7 @@
 # Hey! I'm Márcio Marques! 😁
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marciomarquesdesouza/)](https://www.linkedin.com/in/marciomarquesdesouza/)
+
 &nbsp;
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=marciomarquesdesouza&hide=issues&count_private=true&show_icons=true&theme=dark)
 &nbsp;
