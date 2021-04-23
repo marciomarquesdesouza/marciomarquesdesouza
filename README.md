@@ -4,6 +4,22 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marciomarquesdesouza/)](https://www.linkedin.com/in/marciomarquesdesouza/)
 
+## My skills:
+
+![Tech: Mainframe](https://img.shields.io/badge/Mainframe-gray?logo=mainframe&style=flat-square&logoColor=white)
+![Tech: DB2](https://img.shields.io/badge/DB2-gray?logo=db2&style=flat-square&logoColor=white)
+![Tech: Java](https://img.shields.io/badge/Java-gray?logo=java&style=flat-square&logoColor=white)
+![Tech: Object-oriented programming](https://img.shields.io/badge/OOP-gray?style=flat-square)
+![Tech: Git](https://img.shields.io/badge/Git-gray?logo=git&style=flat-square&logoColor=white)
+![Tech: Github](https://img.shields.io/badge/Github-gray?logo=github&style=flat-square&logoColor=white)
+![Tech: Agile](https://img.shields.io/badge/Agile-gray?style=flat-square)
+![Tech: MongoDB](https://img.shields.io/badge/MongoDB-gray?logo=mongodb&style=flat-square&logoColor=white)
+![Tech: MySql](https://img.shields.io/badge/MySql-gray?logo=mysql&style=flat-square&logoColor=white)
+![Tech: Springboot](https://img.shields.io/badge/Springboot-gray?logo=springboot&style=flat-square&logoColor=white)
+![Tech: Model–view–controller](https://img.shields.io/badge/MVC-gray?style=flat-square)
+
+
+
 &nbsp;
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=marciomarquesdesouza&hide=issues&count_private=true&show_icons=true&theme=dark)
 &nbsp;
