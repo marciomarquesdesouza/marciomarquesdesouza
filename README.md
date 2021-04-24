@@ -13,10 +13,12 @@
 ![Tech: Git](https://img.shields.io/badge/Git-gray?logo=git&style=flat-square&logoColor=white)
 ![Tech: Github](https://img.shields.io/badge/Github-gray?logo=github&style=flat-square&logoColor=white)
 ![Tech: Agile](https://img.shields.io/badge/Agile-gray?style=flat-square)
+![Tech: Model–view–controller](https://img.shields.io/badge/MVC-gray?style=flat-square)
+![Tech: Springboot](https://img.shields.io/badge/Springboot-gray?logo=springboot&style=flat-square&logoColor=white)
 ![Tech: MongoDB](https://img.shields.io/badge/MongoDB-gray?logo=mongodb&style=flat-square&logoColor=white)
 ![Tech: MySql](https://img.shields.io/badge/MySql-gray?logo=mysql&style=flat-square&logoColor=white)
-![Tech: Springboot](https://img.shields.io/badge/Springboot-gray?logo=springboot&style=flat-square&logoColor=white)
-![Tech: Model–view–controller](https://img.shields.io/badge/MVC-gray?style=flat-square)
+
+
 
 
 
