@@ -3,6 +3,8 @@
 
 
 [![Linkedin: marciomarquesdesouza](https://img.shields.io/badge/-marciomarquesdesouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marciomarquesdesouza/)](https://www.linkedin.com/in/marciomarquesdesouza/)
+[![Medium: marciomarquesdesouza](https://img.shields.io/badge/-marciomarquesdesouza-black?style=flat-square&logo=Medium&logoColor=white&link=https://marciomarquesdesouza.medium.com/)](https://marciomarquesdesouza.medium.com/)
+
 
 ## My skills:
 
@@ -17,12 +19,6 @@
 ![Tech: Springboot](https://img.shields.io/badge/Springboot-gray?logo=springboot&style=flat-square&logoColor=white)
 ![Tech: Git](https://img.shields.io/badge/Git-gray?logo=git&style=flat-square&logoColor=white)
 ![Tech: Github](https://img.shields.io/badge/Github-gray?logo=github&style=flat-square&logoColor=white)
-
-
-
-
-
-
 
 
 &nbsp;
