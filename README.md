@@ -3,7 +3,6 @@
 
 
 [![Linkedin: marciomarquesdesouza](https://img.shields.io/badge/-marciomarquesdesouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marciomarquesdesouza/)](https://www.linkedin.com/in/marciomarquesdesouza/)
-[![Medium: marciomarquesdesouza](https://img.shields.io/badge/-marciomarquesdesouza-black?style=flat-square&logo=Medium&logoColor=white&link=https://marciomarquesdesouza.medium.com/)](https://marciomarquesdesouza.medium.com/)
 
 
 ## My skills:
