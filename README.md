@@ -1,7 +1,6 @@
 # Hey, guys! 😁
 ### I'm graduated in Systems Analysis and Development and I have been developing banking software for over 6 years.
 
-
 [![Linkedin: marciomarquesdesouza](https://img.shields.io/badge/-marciomarquesdesouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marciomarquesdesouza/)](https://www.linkedin.com/in/marciomarquesdesouza/)
 
 
