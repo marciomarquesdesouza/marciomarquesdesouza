@@ -18,7 +18,6 @@
 ![Tech: HTML](https://img.shields.io/badge/HTML-gray?logo=git&style=flat-square&logoColor=white)
 ![Tech: CSS](https://img.shields.io/badge/CSS-gray?logo=git&style=flat-square&logoColor=white)
 ![Tech: Git](https://img.shields.io/badge/Git-gray?logo=git&style=flat-square&logoColor=white)
-![Tech: Github](https://img.shields.io/badge/Github-gray?logo=github&style=flat-square&logoColor=white)
 
 
 &nbsp;
