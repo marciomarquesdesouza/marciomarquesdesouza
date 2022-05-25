@@ -1,5 +1,5 @@
 # Hey, guys! 😁
-### I'm graduated in Systems Analysis and Development and I have been developing banking software for over 7 years.
+### I'm graduated in Systems Analysis and Development and have been developing banking software for over 7 years. Currently, my studies are focused on Java (Spring Boot) and Golang.
 
 [![Linkedin: marciomarquesdesouza](https://img.shields.io/badge/-marciomarquesdesouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marciomarquesdesouza/)](https://www.linkedin.com/in/marciomarquesdesouza/)
 
@@ -18,6 +18,7 @@
 ![Tech: HTML](https://img.shields.io/badge/HTML-gray?logo=git&style=flat-square&logoColor=white)
 ![Tech: CSS](https://img.shields.io/badge/CSS-gray?logo=git&style=flat-square&logoColor=white)
 ![Tech: Git](https://img.shields.io/badge/Git-gray?logo=git&style=flat-square&logoColor=white)
+![Tech: Go](https://img.shields.io/badge/Go-gray?logo=git&style=flat-square&logoColor=white)
 
 
 &nbsp;
