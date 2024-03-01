@@ -1,5 +1,5 @@
 # Hey, guys! 😁
-### I'm a graduate in Systems Analysis and Development and have been developing banking software for over 8 years. My current focus is on Golang, Java, Cloud and Legacy Modernization (Mainframe).
+### I'm a graduate in Systems Analysis and Development and have been developing banking software for over 9 years. My current focus is on Golang, Java, Cloud and Legacy Modernization (Mainframe).
 
 [![Linkedin: marciomarquesdesouza](https://img.shields.io/badge/-marciomarquesdesouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marciomarquesdesouza/)](https://www.linkedin.com/in/marciomarquesdesouza/)
 
