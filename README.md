@@ -20,6 +20,9 @@
 ![Tech: Git](https://img.shields.io/badge/Git-gray?logo=git&style=flat-square&logoColor=white)
 ![Tech: Go](https://img.shields.io/badge/Go-gray?logo=git&style=flat-square&logoColor=white)
 
+## Certifications
+
+<image src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="aws cloud practitioner" width="122px" /><image src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="aws developer" width="122px" /><image src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="aws solutions architect associate" width="122px" /><image src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="microsoft azure az-900" width="122px" />
 
 &nbsp;
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=marciomarquesdesouza&hide=issues&count_private=true&show_icons=true&theme=dark)
